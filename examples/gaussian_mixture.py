@@ -44,3 +44,5 @@ def KMeans_and_GMM(K):
 
 if __name__ == "__main__":
     KMeans_and_GMM(4)
+
+    #.
